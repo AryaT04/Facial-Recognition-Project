@@ -2,4 +2,8 @@
 #### Two types of facial recognition programs which can return whether or not two different images are of the same person.
 ### Technology Used:
 ### Process:
+- With Webcam:
+  - Add 
+- By Comparsion:
+  - add
 ### Plans for Future Development:
