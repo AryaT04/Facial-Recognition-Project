@@ -1,1 +1,1 @@
-# Facial-Recognition-Attendance-Checker-
+# Facial-Recognition-Project
