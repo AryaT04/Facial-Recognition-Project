@@ -1,5 +1,5 @@
 # Facial-Recognition-Project 	 :raising_hand_man:  :raising_hand_woman:
-## This is the first version of the program which I initially worked on by myself. The newer version that I led and devloped with updated frontend and backend is in a private repository assoiciated with KappaThetaPiUTD. 
+#### ❗❗ This is the first version of the program which I initially worked on by myself. The newer version that I led and devloped with updated frontend and backend is in a private repository assoiciated with KappaThetaPiUTD. ❗❗
 #### Two types of facial recognition programs which can return whether or not two different images are of the same person.
 ### Technology Used:
 - cv2 (open source computer vision library)
