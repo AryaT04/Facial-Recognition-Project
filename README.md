@@ -8,7 +8,7 @@
 - os (allows code to interact with the operating system of the computer)
 ### Process:
 - With Webcam:
-  - I followed a tutorial from a Udemy Python course to complete this project. I started off by installing and importing all libraries and APIs. Next I followed the tutorial to help me set up the main framework of the program and played around with some features. I also created a "database" which is a folder with different images (I did this differently from the tutorial because I wanted it to be more organized).  This program allows the user to capture an image using the webcam, compare the image to all the other images in the database, and then return a match.  
+  - I started off by installing and importing all libraries and APIs. Next I followed the tutorial to help me set up the main framework of the program and played around with some features. I also created a "database" which is a folder with different images (I did this differently from the tutorial because I wanted it to be more organized).  This program allows the user to capture an image using the webcam, compare the image to all the other images in the database, and then return a match.  
 - By Comparsion:
   - I follwed a similar process as above, however for this one I don't have a database since for this program I need to hard-code the images I want to compare.
   - add more...
